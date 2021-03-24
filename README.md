@@ -1,4 +1,7 @@
 ### Hi there 👋
+Ola, meu nome e Israel, sou um apaixonado por jogos eletrônicos, o jogo que mais gosto e Grand Theft Auto: San Andreas,
+tive o primeiro contato com jogos nos meus 8 anos de idade e desde então o gosto apenas aumentou,
+atualmente estou cursando análise e desenvolvimento de sistemas no IFPB Campus Cajazeiras.
 
 <!--
 **raedman90/raedman90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
