@@ -3,11 +3,10 @@ Meu nome e Israel Oliveira, sou um apaixonado por jogos eletrônicos e tecnologi
 tive o primeiro contato com jogos nos meus 8 anos de idade e desde então o gosto apenas aumentou,
 atualmente estou cursando análise e desenvolvimento de sistemas no IFPB Campus Cajazeiras.
 
-<hr>
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/raedman90)](https://github.com/raedman90)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IsraelIFPB)](https://twitter.com/IsraelIFPB)
 
+<hr>
 
 ### Sobre mim 🤔
 
