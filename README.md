@@ -8,15 +8,6 @@ atualmente estou cursando análise e desenvolvimento de sistemas no IFPB Campus 
 
 <hr>
 
-### Sobre mim 🤔
-
-- Atualmente trabalhando como Programador e CEO no projeto Brasil Play Games.
-
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/brasilplaygamesrpg)](https://www.youtube.com/user/brasilplaygamesrpg)
-
-A 11 anos sendo referência em servidor RPG
-GTA San Andreas Multiplayer | SAMP
-
 <!--
 **raedman90/raedman90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
