@@ -46,7 +46,7 @@
 
 ## 📌 Projetos em destaque
 
-### CME Manager System
+### 🏥 CME Manager System
 
 Sistema web para gestão e rastreabilidade de materiais em uma Central de Material e Esterilização.
 
@@ -62,7 +62,7 @@ Sistema web para gestão e rastreabilidade de materiais em uma Central de Materi
 
 ---
 
-### is.sues
+### 📱 is.sues
 
 Aplicação para gestão de empresas, departamentos, usuários e chamados internos.
 
@@ -78,7 +78,7 @@ Aplicação para gestão de empresas, departamentos, usuários e chamados intern
 
 ---
 
-### Brasil Play Games
+### 🎮 Brasil Play Games
 
 Projeto de desenvolvimento e manutenção de sistemas para servidor SA-MP RPG, envolvendo programação de gamemode, sistemas administrativos, eventos, organizações e integrações.
 
@@ -95,27 +95,22 @@ Projeto de desenvolvimento e manutenção de sistemas para servidor SA-MP RPG, e
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=raedman90&show_icons=true&theme=dracula&locale=pt-br&hide_border=false&include_all_commits=true&count_private=true" 
-    height="160" 
-    alt="Estatísticas do GitHub" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raedman90&layout=compact&langs_count=8&theme=dracula&locale=pt-br&hide_border=false" 
-    height="160" 
-    alt="Linguagens mais usadas" 
-  />
-</div>
+<p align="left">
+  Meu GitHub reúne projetos de estudo, aplicações web/mobile, APIs e sistemas desenvolvidos com foco em organização, boas práticas e evolução contínua.
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=raedman90&label=Visualizações%20do%20perfil&color=blueviolet&style=flat" alt="Visualizações do perfil" />
+</p>
 
 ---
 
 ## 🌐 Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/fr-israel-oliveira" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/israeloliveira98/?hl=pt-br" target="_blank">
